@@ -54,22 +54,9 @@ You’ll see output similar to this:
 * Restarting with stat
 * Debugger is active!
 * Debugger PIN: nnn-nnn-nnn
+
 Visit http://127.0.0.1:5000/hello in a browser and you should see the “Hello, World!” message. Congratulations, you’re now running your Flask web application!
 
 If another program is already using port 5000, you’ll see OSError: [Errno 98] or OSError: [WinError 10013] when the server tries to start. See Address already in use for how to handle that.
 
-Continue to Define and Access the Database.
-
-Logo
-
-Contents
-Application Setup
-The Application Factory
-Run The Application
-Navigation
-Overview
-Tutorial
-Previous: Project Layout
-Next: Define and Access the Database
-Quick search
 '''
